@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1521831705 source:/Users/sebastian/Desktop/worspace/guiaDeEjercicios/variables_acumuladores_contadores/ejercicio2/main.c
+	<stdio.h>
+	<stdlib.h>
+
